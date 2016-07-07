@@ -9,7 +9,7 @@
 # This script creates the fourth plot. It is found in the class
 # repo here: https://github.com/rdpeng/ExData_Plotting1
 #
-# The plot has 4 graphs on it (2x2). Each data platted as a function of time
+# The plot has 4 graphs on it (2x2). Each data plotted as a function of time
 # over a 2 day period (2007-02-01 and 2007-02-02).
 # - The first plots the Global Active Power (same as what plot2.R produces)
 # - The next plots the voltage.
